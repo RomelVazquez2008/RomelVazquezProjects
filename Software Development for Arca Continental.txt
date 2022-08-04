@@ -1,0 +1,9 @@
+Video Game Repo
+https://github.com/LuisAGuzmanI/TC2005B-Videojuego
+Dashboard Repo 
+https://github.com/Erickdepavo/TC2005B-dashboard
+Backend Repo
+https://github.com/Erickdepavo/TC2005B-backend
+
+Deployment
+https://arcacontinental-e5.herokuapp.com/
